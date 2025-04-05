@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "4ea929309d99263d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f600e0b881c1b5f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b86c2f2ad1b093",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 2938.7573137216937,
+                  "y": -659.0441829945157,
+                  "zoom": -2.1420449916078375
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "5ba9ce7718aa9a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "part 1 Old Minecraft Showcase/Towers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Towers"
+            }
+          },
+          {
+            "id": "e0f8eab4c077cf9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Observes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Observes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17e12e6ebdc2fa92",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c5a0ced0e64558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f760154d2bd82153",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4acb5fdd5751d40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e1e1e11b618a6d80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afe8d31ec31330a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c192d8c87a1332b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a9b52e2633e8053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Observes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Observes"
+            }
+          },
+          {
+            "id": "3e4723cc7717ccdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Observes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Observes"
+            }
+          },
+          {
+            "id": "418bec94db0f09a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c10d46ce8e415d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Observes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Observes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e0f8eab4c077cf9b",
+  "lastOpenFiles": [
+    "imagesoftowers.mp4.md",
+    "part 1 Old Minecraft Showcase/Towers.md",
+    "Untitled.canvas",
+    "PICS/Pasted image 20250405122334.png",
+    "PICS/what is this.png",
+    "PICS/save haven.webp",
+    "PICS/wellhouse.webp",
+    "PICS/confusing well.webp",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 7.md",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 6.md",
+    "part 1 Old Minecraft Showcase/I´m still here.md",
+    "Bones/Untitled.md",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 5.md",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 4.md",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 3.md",
+    "part 1 Old Minecraft Showcase/Hello.md",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 2.md",
+    "PICS/Pasted image 20250405104532.png",
+    "chars/Chris.md",
+    "PICS/Pasted image 20250403203119.png",
+    "Bones",
+    "Observes.md",
+    "PICS/Pasted image 20250403202956.png",
+    "PICS/Pasted image 20250403202633.png",
+    "PICS/Pasted image 20250403202348.png",
+    "Anhaltsverzeichnis.md",
+    "PICS",
+    "chars/Andrew.md",
+    "part 1 Old Minecraft Showcase/Old Minecraft World Showcase Part 1.md",
+    "chars/unidentified Black men.md",
+    "chars/Smile.md",
+    "chars/Headless Horsemen.md",
+    "chars",
+    "part 4 paralells",
+    "part 3 Mc letsplay",
+    "part 2 Towers",
+    "part 1 Old Minecraft Showcase"
+  ]
+}
